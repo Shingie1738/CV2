@@ -3,6 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Barlow', sans-serif;
+    background-color: #93BFCF;
 }
 
 h2 {
@@ -34,9 +35,9 @@ a:hover {
 }
 .intropic {
     
-    position: relative;
-    top: 30px;
-    right: 500px;
+    position: absolute;
+    top: 150px;
+    right: 1100px;
 
 }
 .greeting {
@@ -47,22 +48,31 @@ a:hover {
     font-size: 4rem;
     position: relative;
     top: 150px;
-    left: 500px;
+    left: 550px;
 }
 .about-me {
-    width: 500px;
+    width: 600px;
     font-size: 20px;
     color: #20262E;
     position: relative;
     top: 160px;
-    left: 500px;
+    left: 550px;
 }
+.deGraasi {
 
+    width: 600px;
+    font-size: 1rem;
+    color: #20262E;
+    position: relative;
+    top: 250px;
+    left: 550px
+
+}
 .skill-row1 {
 
     margin: 0;
     background-color: #93BFCF;
-    height: 750px;
+    height: 800px;
 }
 
 .Container2 {
@@ -87,12 +97,15 @@ table {
     margin: 20px 250px;
 
 }
-
-.bottomrow {
-    top: 100px;
+.hobbies2 {
+    margin: 0;
+    background-color: #93BFCF;
+    height: 400px;
 }
 
+
 .Hobbies {
+
     margin: 0;
     height: 100px;
 }
